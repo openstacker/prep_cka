@@ -1,11 +1,14 @@
 # Certified Kubernetes Administrator (CKA) Exam Preparation
 
+cncf repo https://github.com/cncf/curriculum/blob/master/certified_kubernetes_administrator_exam_v1.11.0.pdf
+
 ## 5% - Scheduling
 
 - [x] [Use label selectors to schedule Pods.](https://kubernetes.io/docs/concepts/configuration/assign-pod-node/)
   * [`nodeSelector`](https://kubernetes.io/docs/concepts/configuration/assign-pod-node/#nodeselector)
-  > Hello
+  > Hello 
   > Test
+  
   * [Affinity and anit-affinity](https://kubernetes.io/docs/concepts/configuration/assign-pod-node/#affinity-and-anti-affinity)
   * [Node affinity (beta feature)](https://kubernetes.io/docs/concepts/configuration/assign-pod-node/#node-affinity-beta-feature)
   * [Inter-pod affinity and anti-affinity (beta feature)](https://kubernetes.io/docs/concepts/configuration/assign-pod-node/#inter-pod-affinity-and-anti-affinity-beta-feature)
