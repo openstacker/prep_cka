@@ -50,6 +50,7 @@ cncf repo https://github.com/cncf/curriculum/blob/master/certified_kubernetes_ad
 - [ ] Know how to configure authentication and authorization.
 - [ ] Understand Kubernetes security primitives.
 - [ ] Know to configure network policies.
+   * [Declare Network Policy](https://kubernetes.io/docs/tasks/administer-cluster/declare-network-policy/)
 - [ ] Create and manage TLS certificates for cluster components.
 - [ ] Work with images securely.
 - [ ] Define security contexts.
